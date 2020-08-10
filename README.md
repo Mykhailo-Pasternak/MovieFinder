@@ -1,6 +1,6 @@
 # 👋 Welcome to "Movie Finder" app 
 
-# js + qjery - API - AJAX - (Adaptive for all devices)
+# js - qjery - API - AJAX - (Adaptive for all devices)
 
 
 ## You can view screenshots by following the links:
