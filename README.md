@@ -1,4 +1,4 @@
-# 👋 Welcome to "Movie Finder" app  - js + qjery - API - AJAX 
+# 👋 Welcome to "Movie Finder" app 
 
 # js + qjery - API - AJAX - (Adaptive for all devices)
 
