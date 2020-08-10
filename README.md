@@ -11,8 +11,7 @@ run index.html
 ## You can view screenshots by following the links:
 
 ```sh
-http://piccy.info/view3/13932301/9742be3ecf09ef89b4bba699fb527227/
-
+http://i.piccy.info/i9/842b3d2e8308ac85b43f39b749b91ed3/1597079269/469405/1391549/scrn.jpg
 ```
 
 ## Author
