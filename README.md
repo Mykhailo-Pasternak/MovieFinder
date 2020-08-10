@@ -6,12 +6,11 @@
 ## You can view screenshots by following the links:
 https://picua.org/images/2020/08/10/45a3cf1f92b51e600478fb08ed152279.jpg
 https://picua.org/images/2020/08/10/b4ec073e1d85570081a533c1ec23619f.jpg
+https://picua.org/images/2020/08/10/39c8b2f52ccf031c417f69c0aeb86859.jpg
 
-## Download 
-
-```sh
-run index.html
-```
+## Instruction:
+1 Download
+2 run index.html
 
 
 ## Author
