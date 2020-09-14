@@ -4,7 +4,7 @@
 
 
 ## You can view screenshots by following the links:
-https://picua.org/images/2020/08/10/45a3cf1f92b51e600478fb08ed152279.jpg
+https://github.com/Pozakhmarnyi/MovieFinder/blob/master/screenshot.jpg
 https://picua.org/images/2020/08/10/b4ec073e1d85570081a533c1ec23619f.jpg
 
 
