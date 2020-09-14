@@ -5,7 +5,7 @@
 
 ## You can view screenshots by following the links:
 https://github.com/Pozakhmarnyi/MovieFinder/blob/master/screenshot.jpg
-https://picua.org/images/2020/08/10/b4ec073e1d85570081a533c1ec23619f.jpg
+https://github.com/Pozakhmarnyi/MovieFinder/blob/master/screenshot2.jpg
 
 
 ## Instruction:
