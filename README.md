@@ -15,7 +15,7 @@ https://github.com/Pozakhmarnyi/MovieFinder/blob/master/screenshot2.jpg
 
 ## Author
 
-👤 **Mikhailo Pasternak**
+👤 **Mykhailo Pasternak**
 
 https://www.linkedin.com/in/mykhailo-pasternak/
 
