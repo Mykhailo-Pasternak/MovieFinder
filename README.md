@@ -8,10 +8,6 @@ https://github.com/Pozakhmarnyi/MovieFinder/blob/master/screenshot.jpg
 https://github.com/Pozakhmarnyi/MovieFinder/blob/master/screenshot2.jpg
 
 
-## Instruction:
-* Download
-* Run index.html
-
 
 ## Author
 
